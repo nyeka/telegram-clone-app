@@ -23,7 +23,7 @@ class Chat extends StatelessWidget {
                   alignment: Alignment.bottomLeft,
                   child: Text(
                     "Menu",
-                    style: TextStyle(fontSize: 24, color: Colors.white),
+                    style: TextStyle(fontSize: 23, color: Colors.white),
                   ),
                 ),
               ),
